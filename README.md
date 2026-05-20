@@ -164,12 +164,6 @@ When a FOE stays close for longer than `CONFIRMATION_TIME`, the HUD switches to 
 
 ---
 
-## License
-
-This project is released under the [MIT License](LICENSE) — you are free to use, modify, and distribute it, provided the original copyright notice is kept.
-
----
-
 ## Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for object detection.
